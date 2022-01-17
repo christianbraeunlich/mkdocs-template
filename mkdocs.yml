@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: MkDocs Template
+theme: readthedocs
+repo_url: https://github.com/christianbraeunlich/mkdocs-template/
+repo_name: GitHub
+edit_uri: tree/main/docs/
+site_author: christianbraeunlich
+remote_branch: prod
